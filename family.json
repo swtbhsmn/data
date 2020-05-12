@@ -1,0 +1,395 @@
+[
+    {
+        "id": "P01",
+        "name": "Ramavtar Rai",
+        "title": "Ramavtar Rai",
+        "born": "1901",
+        "died": "1999",
+        "desc": "",
+        "gender": "M",
+        "partners": [
+            "P02"
+        ],
+        "siblings": [
+            "P03"
+        
+        ],
+        "parents": [
+            "P06",
+            "P07"
+        ],
+        "children": [
+            "P11",
+            "P12",
+            "P13",
+            "P14",
+            "P15",
+            "P16",
+            "P17"
+            
+        ],
+        "level": 0,
+        "root": true
+    },
+    {
+        "id": "P02",
+        "name": "Radha",
+        "title": "Radha",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "F",
+        "partners": [
+            "P01"
+        ],
+        "siblings": [],
+        "parents": [],
+        "children": [
+            "P11",
+            "P12",
+            "P13",
+            "P14",
+            "P15",
+            "P16",
+            "P17"
+           
+        ],
+        "level": 0,
+        "root": false
+    },
+    {
+        "id": "P03",
+        "name": "unknow",
+        "title": "",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "M",
+        "partners": [],
+        "siblings": [],
+        "parents": [],
+        "children": [],
+        "level": 0,
+        "root": false
+    },
+    {
+        "id": "P11",
+        "name": "Ramashankar Prasad ",
+        "title": "Ramashankar Prasad",
+        "born": "",
+        "died": "10 March 2004",
+        "desc": "",
+        "gender": "M",
+        "partners": [
+            "P21"
+        ],
+        "siblings": [
+            "P12",
+            "P13",
+            "P14",
+            "P15",
+            "P16",
+            "P17"
+        ],
+        "parents": [
+            "P01"
+        ],
+        "children": [
+            "P31",
+            "P32",
+            "P33",
+            "P34",
+            "P35"
+        ],
+        "level": 1,
+        "root": false
+    },
+    {
+        "id": "P21",
+        "name": "Ramsundar Devi",
+        "title": "Ramsundar Devi",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "F",
+        "partners": [
+            "P11"
+        ],
+        "siblings": [],
+        "parents": [],
+        "children": [
+            "P31",
+            "P32",
+            "P33",
+            "P34",
+            "P35"
+        ],
+        "level": 1,
+        "root": false
+    },
+    {
+        "id": "P31",
+        "name": "Manoj Kumar",
+        "title": "Manoj Kumar",
+        "born": "31 May 1967",
+        "died": "",
+        "desc": "",
+        "gender": "M",
+        "partners": [
+            "P36"
+        ],
+        "siblings": [
+            "P32",
+            "P33",
+            "P34",
+            "P35"
+        ],
+        "parents": [
+            "P11",
+            "P21"
+        ],
+        "children": [
+            "P41",
+            "P42"
+        ],
+        "level": 1,
+        "root": false
+    },
+
+    {
+        "id": "P32",
+        "name": "Saroj Kumar",
+        "title": "Saroj Kumar",
+        "born": "1969",
+        "died": "",
+        "desc": "",
+        "gender": "M",
+        "partners": [
+            "P37"
+        ],
+        "siblings": [
+            "P31",
+            "P33",
+            "P34",
+            "P35"
+        ],
+        "parents": [
+            "P11",
+            "P21"
+        ],
+        "children": [
+            "P43",
+            "P44",
+            "P45"
+        ],
+        "level": 1,
+        "root": false
+    },
+    {
+        "id": "P33",
+        "name": "Sanjeev Kumar",
+        "title": "Sanjeev Kumar",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "M",
+        "partners": [
+            "P38"
+        ],
+        "siblings": [
+            "P31",
+            "P32",
+            "P34",
+            "P35"
+        ],
+        "parents": [
+            "P11",
+            "P21"
+        ],
+        "children": [
+            "P46",
+            "P47"
+            
+        ],
+        "level": 1,
+        "root": false
+    },
+    {
+        "id": "P34",
+        "name": "Punam Kumari",
+        "title": "Punam Kumari",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "F",
+        "partners": [
+            "P39"
+        ],
+        "siblings": [
+            "P31",
+            "P32",
+            "P33",
+            "P35"
+        ],
+        "parents": [
+            "P11",
+            "P21"
+        ],
+        "children": [
+            "P48",
+            "P49",
+            "P50"
+        ],
+        "level": 1,
+        "root": false
+    },
+    {
+        "id": "P35",
+        "name": "Rajeev Kumar",
+        "title": "Rajeev Kumar",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "M",
+        "partners": [
+            "P40"
+        ],
+        "siblings": [
+            "P31",
+            "P32",
+            "P33",
+            "P34"
+        ],
+        "parents": [
+            "P11",
+            "P21"
+        ],
+        "children": [
+            "P51"
+            
+        ],
+        "level": 1,
+        "root": false
+    }
+   ,
+    {
+        "id": "P36",
+        "name": "Nirjala Kumari",
+        "title": "Nirjala Kumari",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "F",
+        "partners": [
+            "P31"
+        ],
+        "siblings": [],
+        "parents": [
+            "P61",
+            "P62"
+        ],
+        "children": [
+            "P41",
+            "P42"
+           
+        ],
+        "level": 1,
+        "root": false
+    },
+    {
+        "id": "P37",
+        "name": "Babita Kumari",
+        "title": "Babita Kumari",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "F",
+        "partners": [
+            "P32"
+        ],
+        "siblings": [],
+        "parents": [
+            "P63",
+            "P64"
+        ],
+        "children": [
+            "P43",
+            "P44",
+            "P45"
+        ],
+        "level": 1,
+        "root": false
+    },
+    {
+        "id": "P38",
+        "name": "Soni Kumari",
+        "title": "Soni Kumari",
+        "born": "",
+        "died": "",
+        "desc": "",
+        "gender": "F",
+        "partners": [
+            "P33"
+        ],
+        "siblings": [ ],
+        "parents": [
+            "P65",
+            "P26"
+        ],
+        "children": [
+            "P46",
+            "P47"
+            
+        ],
+        "level": 1,
+        "root": false
+    },
+   {
+    "id": "P39",
+    "name": "Rajesh Kumar",
+    "title": "Rajesh Kumar",
+    "born": "",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [
+        "P34"
+    ],
+    "siblings": [],
+    "parents": [
+        "P67",
+        "P68"
+    ],
+    "children": [
+        "P48",
+        "P49",
+        "P50"
+    ],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P40",
+    "name": "Astha Kumari",
+    "title": "Astha Kumari",
+    "born": "",
+    "died": "",
+    "desc": "",
+    "gender": "F",
+    "partners": [
+        "P35"
+    ],
+    "siblings": [ ],
+    "parents": [
+        "P69",
+        "P70"
+    ],
+    "children": [
+        "P51"
+        
+    ],
+    "level": 1,
+    "root": false
+}
+   
+]
