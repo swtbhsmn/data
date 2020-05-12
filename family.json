@@ -60,7 +60,7 @@
     {
         "id": "P03",
         "name": "unknow",
-        "title": "unknow",
+        "title": "",
         "born": "",
         "died": "",
         "desc": "",
@@ -390,6 +390,234 @@
     ],
     "level": 1,
     "root": false
+},
+{
+    "id": "P41",
+    "name": "Swetank Subham",
+    "title": "Swetank Subham",
+    "born": "10 May 1994",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [],
+    "siblings": [
+        "P42"
+    ],
+    "parents": [
+        "P31",
+        "P36"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P42",
+    "name": "Swetabh Suman",
+    "title": "Swetabh Suman",
+    "born": "17 March 1997",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [],
+    "siblings": [
+        "P41"
+    ],
+    "parents": [
+        "P31",
+        "P36"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P43",
+    "name": "Abhinav Kumar",
+    "title": "",
+    "born": "08 Jun 1998",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [],
+    "siblings": [
+        "P44",
+        "P45"
+    ],
+    "parents": [
+        "P32",
+        "P37"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P44",
+    "name": "Diksha Kumari",
+    "title": "",
+    "born": "26 Apr ",
+    "died": "",
+    "desc": "",
+    "gender": "F",
+    "partners": [],
+    "siblings": [
+        "P43",
+        "P45"
+    ],
+    "parents": [
+        "P32",
+        "P37"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P43",
+    "name": "Anubhav Kumar",
+    "title": "",
+    "born": "",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [],
+    "siblings": [
+        "P43",
+        "P44"
+    ],
+    "parents": [
+        "P32",
+        "P37"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P46",
+    "name": "Riya Patel",
+    "title": "",
+    "born": "11 June",
+    "died": "",
+    "desc": "",
+    "gender": "F",
+    "partners": [],
+    "siblings": [
+        "P47"
+        
+    ],
+    "parents": [
+        "P33",
+        "P38"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P47",
+    "name": "Pranay Deep",
+    "title": "",
+    "born": "06 Dec ",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [],
+    "siblings": [
+        "P46"
+        
+    ],
+    "parents": [
+        "P33",
+        "P38"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P48",
+    "name": "Rohit Raaz Anand",
+    "title": "",
+    "born": "11 Jan 1998",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [],
+    "siblings": [
+        "P49",
+        "P50"
+        
+    ],
+    "parents": [
+        "P34",
+        "P39"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P49",
+    "name": "Rasmi Raaz Anand",
+    "title": "",
+    "born": "1 July 2000",
+    "died": "",
+    "desc": "",
+    "gender": "F",
+    "partners": [],
+    "siblings": [
+        "P48",
+        "P50"
+        
+    ],
+    "parents": [
+        "P34",
+        "P39"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P50",
+    "name": "Yuraj Rohan",
+    "title": "",
+    "born": "14 May 2005",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [],
+    "siblings": [
+        "P48",
+        "P50"
+        
+    ],
+    "parents": [
+        "P34",
+        "P39"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
+},
+{
+    "id": "P51",
+    "name": "Alisha Kumari",
+    "title": "",
+    "born": "07 Apr 2017",
+    "died": "",
+    "desc": "",
+    "gender": "M",
+    "partners": [],
+    "siblings": [],
+    "parents": [
+        "P35",
+        "P40"
+    ],
+    "children": [],
+    "level": 1,
+    "root": false
 }
-   
 ]
